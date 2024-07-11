@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/20.0.1"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.WelcomeSceneController">
+    <children>
+        <Label layoutX="245.0" layoutY="260.0" text="Welcome to JavaFX" textAlignment="CENTER" textFill="#0000f0d9">
+            <font>
+                <Font name="Times New Roman Bold" size="36.0"/>
+            </font>
+        </Label>
+    </children>
+</AnchorPane>
